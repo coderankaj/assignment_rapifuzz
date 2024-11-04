@@ -1,2 +1,2 @@
-# assignment_rapifuzz
+# Assignment rapifuzz (Django + Nextjs)
  django and nextjs
